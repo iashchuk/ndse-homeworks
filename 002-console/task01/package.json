@@ -1,0 +1,17 @@
+{
+  "name": "date-cli",
+  "version": "1.0.0",
+  "description": "Get date via cli",
+  "main": "index.js",
+  "bin": {
+    "date-cli": "bin/date-cli.js"
+  },
+  "scripts": {
+    "start": "node bin/date-cli"
+  },
+  "author": "Vitalii Iashchuk",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
