@@ -1,0 +1,11 @@
+{
+  "name": "guess-number",
+  "version": "1.0.0",
+  "description": "Guess number game",
+  "main": "index.js",
+  "scripts": {
+    "game": "node index.js"
+  },
+  "author": "Vitalii Iashchuk",
+  "license": "ISC"
+}
